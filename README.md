@@ -1,10 +1,6 @@
 # 👋 Привет, я Кирилл
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F4N3R4ZzY1N2p4bWZqN3R5dXN3Z2R2M2h4c3JqM2E0bXQ4cG9wZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" />
-</p>
-
-<p align="center">
   <b>Frontend-разработчик</b><br>
   Создаю адаптивные, аккуратные и удобные интерфейсы
 </p>
@@ -72,16 +68,10 @@ HTML-макет с пользовательским взаимодействие
 
 ---
 
-### 📦 QR-components-frontendmentor  
-Комплект компонентов для Frontend Mentor задач, акцент на вёрстку и UI.  
-➡️ Репозиторий: https://github.com/Strannuk/QR-components-frontendmentor
-
----
-
 ## 📫 Контакты
 
 - GitHub: https://github.com/Strannuk  
-- Telegram / LinkedIn: *(добавь ссылки)*  
+- Telegram / LinkedIn: (https://t.me/BelokamenskyiKirill) 
 - Статус: открыт к предложениям
 
 ---
